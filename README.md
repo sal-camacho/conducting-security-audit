@@ -48,10 +48,12 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 | Intrusion Detection System   | ❌ No        | Needed to detect intrusions by threat actors. |
 | Backups                      | ❌ No        | No backups of critical data exist, jeopardizing business continuity. |
 | Antivirus Software           | ✅ Yes       | Installed and monitored regularly. |
-| Legacy System Monitoring     | ⚠️ Partial   | Systems are monitored but lack scheduled maintenance and clear intervention policies. |
+| Legacy System Monitoring     | ❌ No        | Systems are monitored but lack scheduled maintenance and clear intervention policies. |
 | Encryption                   | ❌ No        | Not used; sensitive data confidentiality is at risk. |
 | Password Management System   | ❌ No        | Absence reduces productivity and weakens access control. |
 | Physical Locks               | ✅ Yes       | Main offices and storefront are physically secured. |
+| CCTV Surveillance            | ✅ Yes       | Functional surveillance is in place. |
+| Fire Detection/Prevention    | ✅ Yes       | Active fire alarm and sprinkler systems installed. |
 
 ## 📋 Compliance Checklist
 
@@ -81,8 +83,6 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 | Sensitive data confidentiality (PII/SPII)         | ❌ No      | No encryption for sensitive personal data. |
 | Data integrity                                     | ✅ Yes     | Consistency and validation are ensured. |
 | Authorized access control                         | ❌ No      | Access isn't limited to role-based need. |
-| CCTV Surveillance            | ✅ Yes       | Functional surveillance is in place. |
-| Fire Detection/Prevention    | ✅ Yes       | Active fire alarm and sprinkler systems installed. |
 
 ## 🧠 Summary
 
