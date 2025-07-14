@@ -37,7 +37,7 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 ## My Contributions
 ---
 
-The audit follows NIST CSF's **Identify** function to evaluate risks and establish stronger security practices.
+The audit follows NIST CSF's **Identify** function to evaluate risks and establish stronger security practices. I determined whether the control or best practice was implemented, and the explanation came from the exemplar provided after completing the assignment.
 
 ## Controls and Compliance Checklist
 
@@ -62,7 +62,7 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 
 ### Payment Card Industry Data Security Standard (PCI DSS)
 
-| Practice                                           | Compliant | Explanation |
+| Best Practice                                           | Compliant | Explanation |
 |---------------------------------------------------|-----------|-------------|
 | Authorized access to credit card data             | ❌ No      | All employees have unrestricted access. |
 | Secure transaction environment                    | ❌ No      | No encryption for internal credit card processing. |
@@ -71,7 +71,7 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 
 ### General Data Protection Regulation (GDPR)
 
-| Practice                                           | Compliant | Explanation |
+| Best Practice                                           | Compliant | Explanation |
 |---------------------------------------------------|-----------|-------------|
 | E.U. customer data confidentiality                | ❌ No      | Encryption is not used to secure financial data. |
 | Breach notification within 72 hours               | ✅ Yes     | A plan is in place to notify E.U. customers. |
@@ -80,7 +80,7 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 
 ### System and Organizations Controls (SOC 1 & 2)
 
-| Practice                                           | Compliant | Explanation |
+| Best Practice                                           | Compliant | Explanation |
 |---------------------------------------------------|-----------|-------------|
 | User access policies                              | ❌ No      | Least Privilege and Separation of Duties are not enforced. |
 | Sensitive data confidentiality (PII/SPII)         | ❌ No      | No encryption for sensitive personal data. |
