@@ -1,7 +1,9 @@
-# Internal Security Audit — Botium Toys
-## Activity Scenario: Botium Toys Security Audit
+# Activity Overview
 
+## Internal Security Audit — Botium Toys Security Audit
 This audit was conducted as part of the Google Cybersecurity Certificate program to assess Botium Toys’ internal security posture. Botium Toys is a small U.S. business managing both physical retail and online operations. As the company expands, its IT department faces growing pressure to secure assets, maintain compliance, and support international e-commerce demands.
+
+---
 
 ### Scope of the Audit
 
@@ -34,8 +36,9 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 - No intrusion detection system (IDS)
 - Physical security is in place, but system-level protections are limited
 
-## My Contributions
 ---
+
+## My Contributions
 
 The audit follows NIST CSF's **Identify** function to evaluate risks and establish stronger security practices. I determined whether the control or best practice was implemented, and the explanation came from the exemplar provided after completing the assignment.
 
@@ -103,7 +106,9 @@ Botium Toys is currently compliant in areas like physical security and breach no
 
 ---
 
+## Screenshot of Audit Scenario, Exemplar & Control Categories
 ![Audit Scenario Snapshot](botium-audit-scenario.png)
+> This image captures the full response submitted as part of the Google Cybersecurity Certificate incident report activity.
 
 ![1](https://github.com/user-attachments/assets/7cabe52b-89e4-4399-87d6-894d4dc05935)
 ![2](https://github.com/user-attachments/assets/9338d03f-4bd4-4af3-934f-431b7fd2301a)
