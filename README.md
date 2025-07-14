@@ -34,7 +34,8 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 - No intrusion detection system (IDS)
 - Physical security is in place, but system-level protections are limited
 
-## My Contribution
+## My Contributions
+---
 
 The audit follows NIST CSF's **Identify** function to evaluate risks and establish stronger security practices.
 
@@ -100,8 +101,9 @@ To improve its security posture and reduce regulatory risk, Botium Toys should i
 
 Botium Toys is currently compliant in areas like physical security and breach notification; however, gaps remain in PCI DSS, GDPR, and SOC standards that must be addressed to protect customers and support future growth.
 
-![Audit Scenario Snapshot](botium-audit-scenario.png)
+---
 
+![Audit Scenario Snapshot](botium-audit-scenario.png)
 
 ![1](https://github.com/user-attachments/assets/7cabe52b-89e4-4399-87d6-894d4dc05935)
 ![2](https://github.com/user-attachments/assets/9338d03f-4bd4-4af3-934f-431b7fd2301a)
