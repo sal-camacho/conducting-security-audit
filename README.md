@@ -34,6 +34,8 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 - No intrusion detection system (IDS)
 - Physical security is in place, but system-level protections are limited
 
+## My Contribution
+
 The audit follows NIST CSF's **Identify** function to evaluate risks and establish stronger security practices.
 
 ## Controls and Compliance Checklist
