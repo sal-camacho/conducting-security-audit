@@ -1,21 +1,21 @@
-# 🔐 Internal Security Audit — Botium Toys
-## 🧠 Activity Scenario: Botium Toys Security Audit
+# Internal Security Audit — Botium Toys
+## Activity Scenario: Botium Toys Security Audit
 
 This audit was conducted as part of the Google Cybersecurity Certificate program to assess Botium Toys’ internal security posture. Botium Toys is a small U.S. business managing both physical retail and online operations. As the company expands, its IT department faces growing pressure to secure assets, maintain compliance, and support international e-commerce demands.
 
-### 🔍 Scope of the Audit
+### Scope of the Audit
 
 - Review the entire security program at Botium Toys
 - Assess internal processes and asset management
 - Evaluate controls and compliance best practices using the NIST Cybersecurity Framework (CSF)
 
-### 🎯 Audit Goals
+### Audit Goals
 
 - Identify and assess all IT-managed assets
 - Complete the controls and compliance checklist
 - Determine gaps and recommend improvements to strengthen security posture
 
-### 🧱 Current Assets
+### Current Assets
 
 - On-premises business equipment
 - Employee devices (desktops, smartphones, workstations)
@@ -24,7 +24,7 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 - Internet access and internal network infrastructure
 - Data retention and legacy system management
 
-### ⚠️ Risk Assessment
+### Risk Assessment
 
 - **Risk Score**: 8/10 (High)
 - Botium Toys lacks proper controls and may not meet U.S. and international compliance standards
@@ -36,7 +36,7 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 
 The audit follows NIST CSF's **Identify** function to evaluate risks and establish stronger security practices.
 
-## ✅ Controls and Compliance Checklist
+## Controls and Compliance Checklist
 
 | Control                       | Implemented | Explanation |
 |------------------------------|-------------|-------------|
@@ -55,7 +55,7 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 | CCTV Surveillance            | ✅ Yes       | Functional surveillance is in place. |
 | Fire Detection/Prevention    | ✅ Yes       | Active fire alarm and sprinkler systems installed. |
 
-## 📋 Compliance Checklist
+## Compliance Checklist
 
 ### Payment Card Industry Data Security Standard (PCI DSS)
 
@@ -84,7 +84,7 @@ The audit follows NIST CSF's **Identify** function to evaluate risks and establi
 | Data integrity                                     | ✅ Yes     | Consistency and validation are ensured. |
 | Authorized access control                         | ❌ No      | Access isn't limited to role-based need. |
 
-## 🧠 Summary
+## Summary
 
 To improve its security posture and reduce regulatory risk, Botium Toys should implement the following high-priority controls and practices:
 
