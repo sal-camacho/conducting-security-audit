@@ -1,23 +1,27 @@
 # Activity Overview
+This scenario is based on a fictional company:
 
-## Internal Security Audit — Botium Toys Security Audit
-This audit was conducted as part of the Google Cybersecurity Certificate program to assess Botium Toys’ internal security posture. Botium Toys is a small U.S. business managing both physical retail and online operations. As the company expands, its IT department faces growing pressure to secure assets, maintain compliance, and support international e-commerce demands.
+Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+
+The manager of the IT department has decided that an internal IT audit needs to be conducted. She's worried about maintaining compliance and business operations as the company grows without a clear plan. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
+
+The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 ---
 
-### Scope of the Audit
+## Scope of the Audit
 
 - Review the entire security program at Botium Toys
 - Assess internal processes and asset management
 - Evaluate controls and compliance best practices using the NIST Cybersecurity Framework (CSF)
 
-### Audit Goals
+## Audit Goals
 
 - Identify and assess all IT-managed assets
 - Complete the controls and compliance checklist
 - Determine gaps and recommend improvements to strengthen security posture
 
-### Current Assets
+## Current Assets
 
 - On-premises business equipment
 - Employee devices (desktops, smartphones, workstations)
@@ -26,7 +30,7 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 - Internet access and internal network infrastructure
 - Data retention and legacy system management
 
-### Risk Assessment
+## Risk Assessment
 
 - **Risk Score**: 8/10 (High)
 - Botium Toys lacks proper controls and may not meet U.S. and international compliance standards
@@ -37,6 +41,9 @@ This audit was conducted as part of the Google Cybersecurity Certificate program
 - Physical security is in place, but system-level protections are limited
 
 ---
+
+## Internal Security Audit — Botium Toys Security Audit
+This audit was conducted as part of the Google Cybersecurity Certificate program to assess Botium Toys’ internal security posture. Botium Toys is a small U.S. business managing both physical retail and online operations. As the company expands, its IT department faces growing pressure to secure assets, maintain compliance, and support international e-commerce demands.
 
 ## My Contributions
 
