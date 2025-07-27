@@ -1,5 +1,5 @@
 # Activity Overview
-
+This internal audit project evaluates the security posture of a fictional small business—Botium Toys—facing growing operational demands and regulatory complexity.
 
 
 ## Scenario
